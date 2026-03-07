@@ -15,14 +15,9 @@ toc: false
 
 **Winter 2023, 2024, 2025, 2026** · Master's Elective · 4 Credits · [IBEI](https://www.ibei.org)
 
-Instructor for a master-level elective exploring how history shapes contemporary global outcomes. The course bridges comparative historical methods with pressing substantive questions, structured around four thematic pillars: **colonialism & capitalism**, **human-environment interactions**, **fascism**, and **conflict**.
-
-Rather than treating history as mere background, the course trains students to interrogate the mechanisms through which the past persists — drawing on path dependence, critical junctures, and comparative methods. A distinctive feature of the 2026 edition is the **AI Historiography Audit** (40% of the grade): students generate AI-produced historical essays and audit them against primary sources and course readings, developing skills to identify factual hallucinations, interpretive bias, and theoretical superficiality in algorithmically generated text.
-
-**Themes covered:** Historical causation & temporality · Case selection & comparative methods · Sugar, slavery & global capitalism · Decolonization & neo-imperialism · Climate politics & landscapes · The origins and contemporary mutations of fascism · The Palestinian-Israeli conflict
+Course designer and instructor for a master-level elective examining how historical processes shape contemporary global outcomes. Structured around four thematic pillars — colonialism & capitalism, human-environment interactions, fascism, and conflict — the course trains students to interrogate the mechanisms through which the past persists, drawing on path dependence, critical junctures, and comparative methods. The 2026 edition introduces an **AI Historiography Audit** in which students generate and critically audit AI-produced historical essays against primary sources, developing skills to identify factual hallucinations, interpretive bias, and theoretical superficiality in algorithmically generated text.
 
 [Syllabus (2026)](/files/syllabi/historical-legacies-2026.pdf){target="_blank"}
-
 
 :::
 :::
@@ -33,14 +28,11 @@ Rather than treating history as mere background, the course trains students to i
 ::: {.grid}
 ::: {.g-col-12 .g-col-md-10}
 
-**Fall 2021** · Master's Elective · 4 Credits · IBEI
+**Fall 2021** · Master's Elective · 4 Credits · [IBEI](https://www.ibei.org)
 
-Co-instructor (with Prof. Matthias vom Hau) for a master-level elective examining the rise and resilience of nationalism and its implications for conflict, state-building, and development. The course was organized in three parts: conceptual and theoretical foundations of nations and nationalism; the causes and dynamics of violent ethnic conflict; and thematic issues including colonialism, secessionism, genocide, and conflict management.
-
-Theoretical approaches spanned primordialism, constructivism, and instrumentalism on identity, alongside economic, institutionalist, political, and culturalist explanations of ethnic conflict — drawing on foundational texts by Anderson, Gellner, Brubaker, and Fearon & Laitin. Assessment emphasized active learning through student-led case study presentations, a public-facing blog or media piece translating academic research for wider audiences, and a final research paper.
+Co-instructor (with Prof. Matthias vom Hau) for a master-level elective examining the rise and resilience of nationalism and its implications for conflict, state-building, and development. Organized in three parts — theoretical foundations, the dynamics of violent ethnic conflict, and thematic issues including colonialism, secessionism, and genocide — the course engaged primordial, constructivist, and instrumental approaches to identity alongside economic, institutionalist, and culturalist explanations of ethnic conflict, drawing on foundational texts by Anderson, Gellner, Brubaker, and Fearon & Laitin. Assessment combined student-led case study presentations, a public-facing media piece translating academic research for wider audiences, and a final research paper.
 
 [Syllabus (2021)](/files/syllabi/nationalism-2021.pdf){target="_blank"}
-
 
 :::
 :::
@@ -53,13 +45,9 @@ Theoretical approaches spanned primordialism, constructivism, and instrumentalis
 
 **Winter 2019, 2021** · Undergraduate (200-level) · McGill University
 
-Course designer and instructor for a prerequisite 200-level introduction to sociology. The course developed three core competencies: familiarity with foundational sociological concepts, fluency across the discipline's major theoretical perspectives, and the ability to think critically about the social world.
-
-Topics spanned social inequality and class, globalization, race and ethnicity, gender, work and rationalization, family, education, deviance, and social movements. Readings drew on both canonical texts — Piketty, Becker, Lareau — and contemporary empirical research, pairing each with a dedicated discussion session to build students' analytical skills. Assessment combined collaborative annotation (Perusall), a midterm, a critical review essay of McGill faculty research, and a final exam.
-
+Course designer and instructor for a prerequisite 200-level introduction to sociology covering social inequality and class, globalization, race and ethnicity, gender, work and rationalization, family, education, deviance, and social movements. Readings paired canonical texts — Piketty, Becker, Lareau — with contemporary empirical research, complemented by weekly discussion sessions to build students' analytical capacities. Assessment combined collaborative annotation (Perusall), a midterm, a critical review essay of McGill faculty research, and a final exam.
 
 [Syllabus (2021)](/files/syllabi/sociological-perspectives-2021.pdf){target="_blank"}
-
 
 :::
 :::
@@ -72,9 +60,7 @@ Topics spanned social inequality and class, globalization, race and ethnicity, g
 
 **Winter 2018, 2021** · Undergraduate (200-level) · McGill University
 
-Course designer and instructor for a 200-level introduction to the sociology of global development. The course was structured in five parts: unpacking the concept of development itself; tracing its historical roots in imperialism and colonialism; surveying competing theories from modernization and dependency theory to neoliberalism and post-development; examining key actors (states, NGOs, multinationals, IFIs); and applying these frameworks to thematic issues including foreign aid, gender, education, technology, environment, and conflict.
-
-Readings ranged from classical foundations — Marx, Weber, Rostow — to contemporary critical theorists such as Harvey, Escobar, and McMichael. Assessment combined a midterm, a final exam, and five short response papers requiring students to connect theoretical concepts to real-world events.
+Course designer and instructor for a 200-level introduction to the sociology of global development, tracing the concept of development from its historical roots in imperialism and colonialism through competing theoretical traditions — modernization, dependency, world-systems, neoliberalism, and post-development — before applying these frameworks to thematic issues including foreign aid, gender, education, technology, environment, and conflict. Readings ranged from classical foundations in Marx, Weber, and Rostow to contemporary critical theorists such as Harvey, Escobar, and McMichael, with assessment built around a midterm, a final exam, and five short response papers connecting theory to real-world cases.
 
 [Syllabus (2021)](/files/syllabi/development-2021.pdf){target="_blank"}
 
