@@ -2,7 +2,11 @@
 title: "Teaching"
 description-meta: "Courses taught by Emre Amasyalı in sociology and political science."
 title-block-banner: false
+page-layout: full
+toc: false
 ---
+
+<div class="content-box">
 
 ## Historical Legacies and Development
 
@@ -77,3 +81,5 @@ Instructor for a 200-level introductory course on sociology of global developmen
 :::
 
 :::
+
+</div>

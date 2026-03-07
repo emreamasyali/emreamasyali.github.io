@@ -2,9 +2,11 @@
 title: "Contact"
 description-meta: "Reach out to me with questions and comments"
 title-block-banner: false
-comments:
-  hypothesis: true
+page-layout: full
+toc: false
 ---
+
+<div class="content-box">
 
 <center>
 
@@ -20,5 +22,6 @@ Spain
 
 E-mail: <eamasyali@ibei.org>
 
-
 </center>
+
+</div>

@@ -1,13 +1,94 @@
-/* Personal Website Styles - Emre Amasyalı */
+/* === Personal Website — Emre Amasyalı ===
+   Style conventions adapted from NBP Research Platform */
 
-/* Action buttons */
+/* --- Typography & Body --- */
+body {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  background-color: #e8e8e8;
+  color: #444;
+}
+
+/* --- Navbar --- */
+.navbar {
+  background-color: #1f003f !important;
+  font-family: "Gill Sans", sans-serif;
+}
+
+.navbar-brand,
+.navbar-brand:hover {
+  color: white !important;
+}
+
+.navbar .nav-link {
+  color: #f8876c !important;
+}
+
+.navbar .nav-link:hover {
+  color: #ccc !important;
+  background-color: transparent !important;
+}
+
+.navbar svg,
+.navbar .quarto-navigation-tools svg {
+  fill: #f8876c !important;
+  color: #f8876c !important;
+}
+
+.navbar-toggler-icon {
+  background-color: #e8e8e8;
+}
+
+/* --- Links in main content --- */
+main a {
+  color: #1f003f;
+  text-decoration: underline;
+}
+
+main a:hover {
+  color: #3a0070;
+  text-decoration: underline;
+}
+
+main a:visited {
+  color: #6c2fa0;
+}
+
+/* Don't underline the about-page sidebar buttons */
+.about-links a,
+.about-links a:hover,
+.about-links a:visited {
+  text-decoration: none;
+  color: inherit;
+}
+
+/* --- Content box (inner pages) --- */
+.content-box {
+  max-width: 860px;
+  margin: 2rem auto;
+  padding: 2rem 2.5rem;
+  background-color: rgba(255, 255, 255, 0.92);
+  border-radius: 0.15rem;
+  box-shadow: 0 0 25px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(2px);
+}
+
+.content-box h1,
+.content-box h2,
+.content-box h3,
+.content-box p {
+  color: #444;
+  line-height: 1.6;
+  font-family: "Gill Sans", sans-serif;
+}
+
+/* --- Action buttons --- */
 .btn-action-primary {
   color: white;
-  background-color: #1D3A83 !important;
+  background-color: #1f003f !important;
 }
 
 .btn-action-primary:hover {
-  color: white;
+  color: #f8876c;
 }
 
 .btn-action {
@@ -16,15 +97,15 @@
   border: none;
 }
 
-/* Inline metric badges (Altmetric, Dimensions) */
+/* --- Inline metric badges --- */
 span.__dimensions_badge_embed__, div.altmetric-embed {
   display: inline-block;
 }
 
-/* Responsive video containers */
+/* --- Responsive video --- */
 .video-container {
   position: relative;
-  padding-bottom: 56.25%; /* 16:9 */
+  padding-bottom: 56.25%;
   height: 0;
 }
 
@@ -36,8 +117,7 @@ span.__dimensions_badge_embed__, div.altmetric-embed {
   height: 100%;
 }
 
-/* Responsive iframes */
-.container {
+.responsive-iframe-container {
   position: relative;
   overflow: hidden;
   width: 100%;

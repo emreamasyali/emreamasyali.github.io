@@ -2,7 +2,11 @@
 title: "Publications"
 description-meta: "Academic publications by Emre Amasyalı"
 title-block-banner: false
+page-layout: full
+toc: false
 ---
+
+<div class="content-box">
 
 van den Berg, A. and **Amasyalı, E.** (Forthcoming). What Do We Need "Agency" for? A Critical Analysis of Reasons for the Use of "Agency" in Sociology. *Current Perspective in Social Theory*, 41, 15-41.
 
@@ -21,3 +25,5 @@ Lange, M., **Amasyali, E.**, & Jeong, T. (2021). [Communalizing colonial policie
 Lange, M., Jeong, T., & **Amasyali, E.** (2021). [The colonial origins of ethnic warfare: Re-examining the impact of communalizing colonial policies in the British and French Empires](https://journals.sagepub.com/doi/full/10.1177/00207152211023793). *International Journal of Comparative Sociology*, 62(2), 141-165.
 
 **Amasyalı, D. E.** (2021). [Missionary influence and nationalist reactions: The case of Armenian Ottomans](https://www.cambridge.org/core/journals/nationalities-papers/article/abs/missionary-influence-and-nationalist-reactions-the-case-of-armenian-ottomans/126F4C5D5EBC93B07FFB5BD92EB83B24). *Nationalities Papers*, 49(3), 523-541.
+
+</div>
