@@ -70,13 +70,6 @@
     "text": "Nation-Building and Minority Policies\nA central strand of my research examines how states construct national identity and manage ethnic and linguistic diversity. This work is anchored in the ETHNICGOODS project, an ERC Consolidator Grant led by Prof. Matthias vom Hau at IBEI. My contributions focus on theorising and measuring variation in nation-building strategies across regime types and world regions.\nTogether with project collaborators, I am co-developing the Nation-Building Policies (NBP) Dataset, a cross-national dataset covering 163 countries across five policy domains — education, language, citizenship, symbols, and cultural institutions — scheduled for public release in 2026. Related work develops a novel typology of diversity governance that moves beyond the assimilation–accommodation binary dominant in the literature.\nRecent publications in this area include:\n\nAmasyalı, E. & Tarasov, A. (2025). Nation-building in the wake of empire: Identifying patterns of minority policies in the aftermath of Soviet collapse. Nations and Nationalism, 1–16."
   },
   {
-    "objectID": "research.html#war-and-nationalism",
-    "href": "research.html#war-and-nationalism",
-    "title": "Research",
-    "section": "War and Nationalism",
-    "text": "War and Nationalism\nA second strand examines the relationship between interstate war, imperial collapse, and the emergence and radicalisation of nationalist movements. With Prof. John A. Hall, I have argued that war functions not merely as a backdrop to nationalism but as a generative mechanism that restructures elite incentives, popular solidarities, and state capacity in ways that are constitutive of national projects.\nOngoing work in this area investigates the role of language status grievances in the onset of civil conflict. Using original cross-national data and survival analysis, I examine how the demotion or marginalisation of a group’s language within the state apparatus raises the risk of violent mobilisation — a project developed with Matthias vom Hau, Juliette Crespin-Boucaud, and Frank Borge Wietzke.\nRecent publications in this area include:\n\nAmasyalı, E. & Hall, J.A. (2022). War as the Catalyst of Nationalism. Thesis Eleven, 173(1), 3–23.\nLange, M., Amasyalı, E. & Jeong, T. (2021). Communalizing Colonial Policies and Postcolonial Ethnic Warfare: A Multimethod Analysis of the British Empire. European Journal of Sociology, 62(3), 337–379."
-  },
-  {
     "objectID": "research.html#ottoman-and-missionary-gis",
     "href": "research.html#ottoman-and-missionary-gis",
     "title": "Research",
@@ -88,7 +81,7 @@
     "href": "research.html#computational-text-analysis",
     "title": "Research",
     "section": "Computational Text Analysis",
-    "text": "Computational Text Analysis\nAn emerging line of research applies computational methods to the study of nationalist discourse. Current work uses large-scale text analysis to examine how national identity, ethnic boundaries, and historical memory are narrated in school textbooks across conflict-affected contexts. A project on Turkish history textbooks uses topic modelling and word-embedding techniques to trace shifts in nationalist framing across curriculum reform cycles.\nThis work is in preparation for submission and was presented at the Workshop on Textbooks, Identity, and Conflict (Sarajevo, November 2025)."
+    "text": "Computational Text Analysis\nAn emerging line of research applies computational methods to the study of nationalist discourse. Current work uses large-scale text analysis to examine how national identity, ethnic boundaries, and historical memory are narrated in school textbooks across conflict-affected contexts. A project on Turkish history textbooks uses topic modelling and word-embedding techniques to trace shifts in nationalist framing across curriculum reform cycles."
   },
   {
     "objectID": "publications.html",
