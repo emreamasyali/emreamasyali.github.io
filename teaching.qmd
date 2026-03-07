@@ -31,60 +31,54 @@ Rather than treating history as mere background, the course trains students to i
 ## Nationalism and Ethnic Conflict
 
 ::: {.grid}
-
 ::: {.g-col-12 .g-col-md-10}
 
-Fall 2021
+**Fall 2021** · Master's Elective · 4 Credits · IBEI
 
-Instructor for a master-level elective course. The course focuses on the rise and resilience of nationalism, its role in conflict and war, but also in other fields, including economic development and public goods provision.
+Co-instructor (with Prof. Matthias vom Hau) for a master-level elective examining the rise and resilience of nationalism and its implications for conflict, state-building, and development. The course was organized in three parts: conceptual and theoretical foundations of nations and nationalism; the causes and dynamics of violent ethnic conflict; and thematic issues including colonialism, secessionism, genocide, and conflict management.
 
-:::
+Theoretical approaches spanned primordialism, constructivism, and instrumentalism on identity, alongside economic, institutionalist, political, and culturalist explanations of ethnic conflict — drawing on foundational texts by Anderson, Gellner, Brubaker, and Fearon & Laitin. Assessment emphasized active learning through student-led case study presentations, a public-facing blog or media piece translating academic research for wider audiences, and a final research paper.
 
-:::
+[Syllabus (2021)](/files/syllabi/nationalism-2021.pdf){target="_blank"}
 
-
-## Education and Inequality
-
-::: {.grid}
-
-::: {.g-col-12 .g-col-md-10}
-
-January 2020
-
-Substitute instructor for a 200-level introductory course on sociology. The course focuses on the mechanisms by which educational institutions foster and maintain equalities and inequalities around the world.
 
 :::
-
 :::
 
 
 ## Sociological Perspectives
 
 ::: {.grid}
-
 ::: {.g-col-12 .g-col-md-10}
 
-Summer 2019, Fall 2021
+**Winter 2019, 2021** · Undergraduate (200-level) · McGill University
 
-Instructor for a 200-level introductory course on sociology. The course introduced students to a wide range of topics including (but not limited to) social inequality and social class, race and ethnicity, gender, deviance and social movements.
+Course designer and instructor for a prerequisite 200-level introduction to sociology. The course developed three core competencies: familiarity with foundational sociological concepts, fluency across the discipline's major theoretical perspectives, and the ability to think critically about the social world.
+
+Topics spanned social inequality and class, globalization, race and ethnicity, gender, work and rationalization, family, education, deviance, and social movements. Readings drew on both canonical texts — Piketty, Becker, Lareau — and contemporary empirical research, pairing each with a dedicated discussion session to build students' analytical skills. Assessment combined collaborative annotation (Perusall), a midterm, a critical review essay of McGill faculty research, and a final exam.
+
+
+[Syllabus (2021)](/files/syllabi/sociological-perspectives-2021.pdf){target="_blank"}
+
 
 :::
-
 :::
 
 
 ## Development and Underdevelopment
 
 ::: {.grid}
-
 ::: {.g-col-12 .g-col-md-10}
 
-Winter 2018, 2021
+**Winter 2018, 2021** · Undergraduate (200-level) · McGill University
 
-Instructor for a 200-level introductory course on sociology of global development.
+Course designer and instructor for a 200-level introduction to the sociology of global development. The course was structured in five parts: unpacking the concept of development itself; tracing its historical roots in imperialism and colonialism; surveying competing theories from modernization and dependency theory to neoliberalism and post-development; examining key actors (states, NGOs, multinationals, IFIs); and applying these frameworks to thematic issues including foreign aid, gender, education, technology, environment, and conflict.
+
+Readings ranged from classical foundations — Marx, Weber, Rostow — to contemporary critical theorists such as Harvey, Escobar, and McMichael. Assessment combined a midterm, a final exam, and five short response papers requiring students to connect theoretical concepts to real-world events.
+
+[Syllabus (2021)](/files/syllabi/development-2021.pdf){target="_blank"}
 
 :::
-
 :::
 
 </div>
