@@ -1,0 +1,86 @@
+project:
+  type: website
+  output-dir: docs
+
+# Meta
+description-meta: "Emre Amasyalı is a postdoctoral researcher studying nationalism, ethnic conflict, and imperialism."
+author-meta: "Emre Amasyalı"
+
+website:
+  title: "Dr. Emre Amasyalı"
+  image: "/files/profile/emrea-ibei-profile.jpeg"
+  description: "Emre Amasyalı is a postdoctoral researcher studying nationalism, ethnic conflict, and imperialism."
+
+  navbar:
+    background: light
+
+    left:
+      - text: About
+        href: about.qmd
+      - text: Publications
+        href: publications.qmd
+      - text: Teaching
+        href: teaching.qmd
+      - text: Contact
+        href: contact.qmd
+      - text: Ethnicgoods Project
+        href: https://ethnicgoods.org/
+        target: _blank
+
+    right:
+      - text: "{{< iconify bi envelope size=1.1em title='E-mail' >}}"
+        href: "mailto:eamasyali@ibei.org"
+      - text: "{{< iconify fa6-brands bluesky size=1.1em title='Bluesky' >}}"
+        href: https://bsky.app/profile/emreamasyali.bsky.social
+        rel: me
+      - text: "{{< iconify bi github size=1.1em title='GitHub' >}}"
+        href: https://github.com/emreamasyali
+        rel: me
+      - text: "{{< iconify bi linkedin size=1.1em title='LinkedIn' >}}"
+        href: https://www.linkedin.com/in/emre-amasyali-06498224/
+        rel: me
+
+  page-navigation: true
+
+  page-footer:
+    left: "[Emre Amasyalı](https://emreamasyali.github.io) &copy; <script>document.write(new Date().getFullYear())</script>"
+    right:
+      - text: "{{< fa brands bluesky >}}"
+        href: https://bsky.app/profile/emreamasyali.bsky.social
+        target: _blank
+      - icon: github
+        href: https://github.com/emreamasyali
+        target: _blank
+
+  search:
+    location: navbar
+    type: textbox
+
+  reader-mode: true
+
+  draft-mode: unlinked
+
+  repo-url: https://github.com/emreamasyali/emreamasyali.github.io
+
+  open-graph: true
+
+  twitter-card: true
+
+  site-url: "https://emreamasyali.github.io"
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: true
+    footnotes-hover: true
+    code-copy: true
+    code-link: true
+    code-overflow: wrap
+    fig-align: center
+    link-external-icon: false
+    link-external-newwindow: true
+    email-obfuscation: javascript
+    include-in-header: "files/includes/_academic.qmd"

@@ -1,0 +1,7 @@
+---
+title: "About"
+description-meta: "About Emre Amasyalı, postdoctoral researcher studying nationalism, ethnic conflict, and imperialism."
+title-block-banner: false
+---
+
+I am a mixed-methods social sciences researcher and educator whose work critically advances the understanding of nationalism, ethnic conflict, and imperialism. My contributions intersect three core areas: the re-examination of nationalism as a transformative and often contingent phenomenon; the integration of innovative methodologies—including Geographic Information System (GIS) tools and advanced quantitative techniques—into sociological and historical analysis; and theoretical advancements that challenge and refine dominant frameworks in sociology and related disciplines. My research engages with pressing debates on the legacies of imperialism, the role of historical education systems in shaping identity, and the mechanisms by which conflict and transformation affect socio-political cohesion.

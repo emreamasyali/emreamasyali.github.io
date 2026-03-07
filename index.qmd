@@ -1,0 +1,47 @@
+---
+title: "Emre Amasyali, PhD"
+description-meta: "Emre Amasyali is a mixed-methods social sciences researcher and educator. He studies nationalism, ethnic conflict, and imperialism."
+image: files/profile/emrea-ibei-profile.jpeg
+page-navigation: false
+toc: false
+page-layout: full
+
+about:
+  id: hero-heading
+  template: trestles
+  image-width: 70%
+  links:
+    - icon: sun
+      text: Ethnicgoods
+      href: https://ethnicgoods.org/
+      target: _blank
+    - icon: globe
+      text: IBEI Profile
+      href: https://www.ibei.org/en/emre-amasyal%C4%B1_234211
+      target: _blank
+    - icon: envelope
+      text: E-mail
+      href: mailto:eamasyali@ibei.org
+    - icon: twitter
+      text: Twitter
+      href: https://x.com/emreamasyali
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/emre-amasyali-06498224/
+      target: _blank
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0001-8411-7916
+      target: _blank
+    - text: "{{< fa book >}} Google Scholar"
+      href: https://scholar.google.ca/citations?user=JzRXR2AAAAAJ&hl=en
+      target: _blank
+    - text: "{{< fa project-diagram >}} Research Gate"
+      href: https://www.researchgate.net/profile/Emre-Amasyali
+      target: _blank
+---
+
+:::{#hero-heading}
+
+I am a mixed-methods social sciences researcher and educator whose work critically advances the understanding of nationalism, ethnic conflict, and imperialism. My contributions intersect three core areas: the re-examination of nationalism as a transformative and often contingent phenomenon; the integration of innovative methodologies—including Geographic Information System (GIS) tools and advanced quantitative techniques—into sociological and historical analysis; and theoretical advancements that challenge and refine dominant frameworks in sociology and related disciplines. My research engages with pressing debates on the legacies of imperialism, the role of historical education systems in shaping identity, and the mechanisms by which conflict and transformation affect socio-political cohesion.
+
+:::

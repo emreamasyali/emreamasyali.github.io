@@ -1,0 +1,55 @@
+/* Personal Website Styles - Emre Amasyalı */
+
+/* Action buttons */
+.btn-action-primary {
+  color: white;
+  background-color: #1D3A83 !important;
+}
+
+.btn-action-primary:hover {
+  color: white;
+}
+
+.btn-action {
+  min-width: 165px;
+  border-radius: 30px;
+  border: none;
+}
+
+/* Inline metric badges (Altmetric, Dimensions) */
+span.__dimensions_badge_embed__, div.altmetric-embed {
+  display: inline-block;
+}
+
+/* Responsive video containers */
+.video-container {
+  position: relative;
+  padding-bottom: 56.25%; /* 16:9 */
+  height: 0;
+}
+
+.video-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+/* Responsive iframes */
+.container {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  padding-top: 75%;
+}
+
+.responsive-iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+}

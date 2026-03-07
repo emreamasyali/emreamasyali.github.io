@@ -1,0 +1,24 @@
+---
+title: "Contact"
+description-meta: "Reach out to me with questions and comments"
+title-block-banner: false
+comments:
+  hypothesis: true
+---
+
+<center>
+
+**Emre Amasyalı**
+
+Institut Barcelona D’Estudis Internationals (IBEI)
+
+Ramon Trias Fargas 25-27, Officina: 24.225
+
+Barcelona, Barcelona 08005
+
+Spain
+
+E-mail: <eamasyali@ibei.org>
+
+
+</center>
