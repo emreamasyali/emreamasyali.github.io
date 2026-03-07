@@ -56,6 +56,41 @@
     "text": "Winter 2018, 2021 · Undergraduate (200-level) · McGill University\nCourse designer and instructor for a 200-level introduction to the sociology of global development, tracing the concept of development from its historical roots in imperialism and colonialism through competing theoretical traditions — modernization, dependency, world-systems, neoliberalism, and post-development — before applying these frameworks to thematic issues including foreign aid, gender, education, technology, environment, and conflict. Readings ranged from classical foundations in Marx, Weber, and Rostow to contemporary critical theorists such as Harvey, Escobar, and McMichael, with assessment built around a midterm, a final exam, and five short response papers connecting theory to real-world cases.\nSyllabus (2021)"
   },
   {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My work sits at the intersection of comparative historical sociology, nationalism studies, and development. I draw on mixed methods — combining historical GIS, statistical inference, and qualitative case analysis — to examine how large-scale institutional legacies shape political and social outcomes across generations."
+  },
+  {
+    "objectID": "research.html#nation-building-and-minority-policies",
+    "href": "research.html#nation-building-and-minority-policies",
+    "title": "Research",
+    "section": "Nation-Building and Minority Policies",
+    "text": "Nation-Building and Minority Policies\nA central strand of my research examines how states construct national identity and manage ethnic and linguistic diversity. This work is anchored in the ETHNICGOODS project, an ERC Consolidator Grant led by Prof. Matthias vom Hau at IBEI. My contributions focus on theorising and measuring variation in nation-building strategies across regime types and world regions.\nTogether with project collaborators, I am co-developing the Nation-Building Policies (NBP) Dataset, a cross-national dataset covering 163 countries across five policy domains — education, language, citizenship, symbols, and cultural institutions — scheduled for public release in 2026. Related work develops a novel typology of diversity governance that moves beyond the assimilation–accommodation binary dominant in the literature.\nRecent publications in this area include:\n\nAmasyalı, E. & Tarasov, A. (2025). Nation-building in the wake of empire: Identifying patterns of minority policies in the aftermath of Soviet collapse. Nations and Nationalism, 1–16."
+  },
+  {
+    "objectID": "research.html#war-and-nationalism",
+    "href": "research.html#war-and-nationalism",
+    "title": "Research",
+    "section": "War and Nationalism",
+    "text": "War and Nationalism\nA second strand examines the relationship between interstate war, imperial collapse, and the emergence and radicalisation of nationalist movements. With Prof. John A. Hall, I have argued that war functions not merely as a backdrop to nationalism but as a generative mechanism that restructures elite incentives, popular solidarities, and state capacity in ways that are constitutive of national projects.\nOngoing work in this area investigates the role of language status grievances in the onset of civil conflict. Using original cross-national data and survival analysis, I examine how the demotion or marginalisation of a group’s language within the state apparatus raises the risk of violent mobilisation — a project developed with Matthias vom Hau, Juliette Crespin-Boucaud, and Frank Borge Wietzke.\nRecent publications in this area include:\n\nAmasyalı, E. & Hall, J.A. (2022). War as the Catalyst of Nationalism. Thesis Eleven, 173(1), 3–23.\nLange, M., Amasyalı, E. & Jeong, T. (2021). Communalizing Colonial Policies and Postcolonial Ethnic Warfare: A Multimethod Analysis of the British Empire. European Journal of Sociology, 62(3), 337–379."
+  },
+  {
+    "objectID": "research.html#ottoman-and-missionary-gis",
+    "href": "research.html#ottoman-and-missionary-gis",
+    "title": "Research",
+    "section": "Ottoman and Missionary GIS",
+    "text": "Ottoman and Missionary GIS\nMy doctoral research reconstructed the competitive dynamics between Protestant missionary institutions and Ottoman state education in late Ottoman Anatolia (c. 1880–1914). Using a purpose-built historical GIS dataset covering 335 kazas, I traced how inter-communal educational rivalry — particularly between ABCFM missionary schools and Armenian community schools — shaped long-run patterns of human capital accumulation, women’s schooling, and economic development in modern Turkey.\nThe underlying data infrastructure — including manually digitised kaza boundary polygons, geocoded missionary station locations, and digitised Ottoman school census records — is publicly available in the repository below.\n\n\n\n\n\n\nOttoman Anatolia Schooling HGIS Dataset\nA kaza-level historical GIS dataset on Protestant missionary activity and Ottoman state education in Eastern Thrace and Anatolia, c. 1880–1914. Includes boundary shapefiles, 420 geocoded missionary station locations, 1881/93 Ottoman census demographics, and Ottoman school census records across two cross-sections (1876 and 1902–08).\n View repository on GitHub  Open interactive map\n\n\n\nRecent publications drawing on this dataset include:\n\nAmasyalı, E. (2022). Indigenous Responses to Protestant Missionaries: Educational Competition and Economic Development in Ottoman Turkey. European Journal of Sociology, 63(1), 39–86.\nAmasyalı, E. (2022). Protestant Missionary Education and the Diffusion of Women’s Education in Ottoman Turkey: A Historical GIS Analysis. Social Science History, 46(1), 173–222."
+  },
+  {
+    "objectID": "research.html#computational-text-analysis",
+    "href": "research.html#computational-text-analysis",
+    "title": "Research",
+    "section": "Computational Text Analysis",
+    "text": "Computational Text Analysis\nAn emerging line of research applies computational methods to the study of nationalist discourse. Current work uses large-scale text analysis to examine how national identity, ethnic boundaries, and historical memory are narrated in school textbooks across conflict-affected contexts. A project on Turkish history textbooks uses topic modelling and word-embedding techniques to trace shifts in nationalist framing across curriculum reform cycles.\nThis work is in preparation for submission and was presented at the Workshop on Textbooks, Identity, and Conflict (Sarajevo, November 2025)."
+  },
+  {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications",
