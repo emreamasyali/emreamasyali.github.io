@@ -23,8 +23,8 @@ website:
         href: teaching.qmd
       - text: Contact
         href: contact.qmd
-      - text: Ethnicgoods Project
-        href: https://ethnicgoods.org/
+      - text: Nation-Building Research
+        href: https://nation-building-research.github.io/
         target: _blank
 
     right:
