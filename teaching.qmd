@@ -8,18 +8,23 @@ toc: false
 
 <div class="content-box">
 
-## Historical Legacies and Development
+## Historical Legacies and Development: Roots of Contemporary Issues
 
 ::: {.grid}
-
 ::: {.g-col-12 .g-col-md-10}
 
-Winter 2023, 2024
+**Winter 2023, 2024, 2025, 2026** · Master's Elective · 4 Credits · [IBEI](https://www.ibei.org)
 
-Instructor for a master-level elective course. The course focuses on the use of history in social scientific research.
+Instructor for a master-level elective exploring how history shapes contemporary global outcomes. The course bridges comparative historical methods with pressing substantive questions, structured around four thematic pillars: **colonialism & capitalism**, **human-environment interactions**, **fascism**, and **conflict**.
+
+Rather than treating history as mere background, the course trains students to interrogate the mechanisms through which the past persists — drawing on path dependence, critical junctures, and comparative methods. A distinctive feature of the 2026 edition is the **AI Historiography Audit** (40% of the grade): students generate AI-produced historical essays and audit them against primary sources and course readings, developing skills to identify factual hallucinations, interpretive bias, and theoretical superficiality in algorithmically generated text.
+
+**Themes covered:** Historical causation & temporality · Case selection & comparative methods · Sugar, slavery & global capitalism · Decolonization & neo-imperialism · Climate politics & landscapes · The origins and contemporary mutations of fascism · The Palestinian-Israeli conflict
+
+[Syllabus (2026)](/files/syllabi/historical-legacies-2026.pdf){target="_blank"}
+
 
 :::
-
 :::
 
 
