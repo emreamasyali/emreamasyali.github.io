@@ -29,13 +29,13 @@ about:
       text: LinkedIn
       href: https://www.linkedin.com/in/emre-amasyali-06498224/
       target: _blank
-    - text: "{{< ai orcid >}} ORCID"
+    - text: "ORCID"
       href: https://orcid.org/0000-0001-8411-7916
       target: _blank
     - text: "{{< fa book >}} Google Scholar"
       href: https://scholar.google.ca/citations?user=JzRXR2AAAAAJ&hl=en
       target: _blank
-    - text: "{{< fa project-diagram >}} Research Gate"
+    - text: "{{< fa diagram-project >}} Research Gate"
       href: https://www.researchgate.net/profile/Emre-Amasyali
       target: _blank
 ---

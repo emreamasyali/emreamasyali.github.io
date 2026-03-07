@@ -28,15 +28,15 @@ website:
         target: _blank
 
     right:
-      - text: "{{< iconify bi envelope size=1.1em title='E-mail' >}}"
+      - icon: envelope
         href: "mailto:eamasyali@ibei.org"
-      - text: "{{< iconify fa6-brands bluesky size=1.1em title='Bluesky' >}}"
+      - text: "{{< fa brands bluesky >}}"
         href: https://bsky.app/profile/emreamasyali.bsky.social
         rel: me
-      - text: "{{< iconify bi github size=1.1em title='GitHub' >}}"
+      - icon: github
         href: https://github.com/emreamasyali
         rel: me
-      - text: "{{< iconify bi linkedin size=1.1em title='LinkedIn' >}}"
+      - icon: linkedin
         href: https://www.linkedin.com/in/emre-amasyali-06498224/
         rel: me
 
