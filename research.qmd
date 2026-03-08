@@ -1,7 +1,12 @@
 ---
 title: "Research"
-editor: visual
+description-meta: "Research projects by Emre Amasyalı"
+title-block-banner: false
+page-layout: full
+toc: false
 ---
+
+<div class="content-box">
 
 My work sits at the intersection of comparative historical sociology, nationalism studies, and development. I draw on mixed methods — combining historical GIS, statistical inference, and qualitative case analysis — to examine how large-scale institutional legacies shape political and social outcomes across generations.
 
@@ -36,3 +41,7 @@ Recent publications drawing on this dataset include:
 ## Computational Text Analysis
 
 An emerging line of research applies computational methods to the study of nationalist discourse. Current work uses large-scale text analysis to examine how national identity, ethnic boundaries, and historical memory are narrated in school textbooks across conflict-affected contexts. A project on Turkish history textbooks uses topic modelling and word-embedding techniques to trace shifts in nationalist framing across curriculum reform cycles.
+
+[{{< fa brands github >}} NLP Analysis of Turkish Textbooks](https://github.com/emreamasyali/nlpturkishtextbooks){.btn .btn-outline-secondary target="_blank"}
+
+</div>
