@@ -70,6 +70,8 @@ website:
 
   site-url: "https://emreamasyali.github.io"
 
+  google-analytics: "G-Z06K1D3NTD"
+
 bibliography: references.bib
 
 format:
