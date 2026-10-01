@@ -8,6 +8,17 @@ toc: false
 
 <div class="content-box">
 
+## SOC12 Sociology of Empire, Colonialism, and Imperialism
+
+::: {.grid}
+::: {.g-col-12 .g-col-md-10}
+
+Teaching Associate · [Department of Sociology, University of Cambridge](https://www.sociology.cam.ac.uk/people/emre-amasyali)
+
+:::
+:::
+
+
 ## Historical Legacies and Development: Roots of Contemporary Issues
 
 ::: {.grid}

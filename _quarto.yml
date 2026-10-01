@@ -31,7 +31,7 @@ website:
 
     right:
       - icon: envelope
-        href: "mailto:eamasyali@ibei.org"
+        href: "mailto:ea719@cam.ac.uk"
       - text: "{{< fa brands bluesky >}}"
         href: https://bsky.app/profile/emreamasyali.bsky.social
         rel: me
