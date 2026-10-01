@@ -13,9 +13,9 @@ toc: false
 ::: {.grid}
 ::: {.g-col-12 .g-col-md-10}
 
-Teaching Associate · [Department of Sociology, University of Cambridge](https://www.sociology.cam.ac.uk/people/emre-amasyali)
+[University of Cambridge, Department of Sociology](https://www.sociology.cam.ac.uk/people/emre-amasyali)
 
-This paper explores the global historical sociology of empire, colonialism, and imperialism. Firstly, this therefore requires exploring what global historical sociology is – both as a method in, and a conceptual area of, social science. More broadly, however, this involves reflecting on the realities of empire and colonialism, including histories of violence, insurgency, capital accumulation, and knowledge production. Throughout this course we will encounter substantive case studies related to the historical sociology of empire: such as the emergence of colonial and post-colonial nationalisms, the entanglements of race, empire, and capitalism, homonationalism, and the logics of anti-colonial revolutions. As well as specific case studies, we will focus on specific concepts developed within (and against) colonial imperialisms, such as self-determination, gender, and sexuality. Maintaining a reflexive spirit, we will also consider how sociology itself has been entangled in the epistemic prism of empire.
+Course convenor and instructor for an undergraduate paper examining the global historical sociology of empire, colonialism, and imperialism. The course first asks what global historical sociology is, both as a method in and a conceptual area of social science, and then reflects on the realities of empire and colonialism, including histories of violence, insurgency, capital accumulation, and knowledge production. Substantive case studies include the emergence of colonial and post-colonial nationalisms, the entanglements of race, empire, and capitalism, homonationalism, and the logics of anti-colonial revolutions, alongside concepts developed within (and against) colonial imperialisms, such as self-determination, gender, and sexuality. Throughout, the course considers how sociology itself has been entangled in the epistemic prism of empire.
 
 :::
 :::
