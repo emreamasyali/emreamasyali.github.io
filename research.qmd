@@ -20,6 +20,19 @@ Recent publications in this area include:
 
 -   Amasyalı, E. & Tarasov, A. (2025). Nation-building in the wake of empire: Identifying patterns of minority policies in the aftermath of Soviet collapse. *Nations and Nationalism*, 1–16.
 
+## Cultural Elimination
+
+I also study cultural elimination: state policies that coercively disrupt a group's capacity to reproduce its distinct identity across generations by targeting language, religion, heritage, and public cultural expression. Together with Jan Schlebusch and Andrei Tarasov, I am developing the **Cultural Elimination Dataset (CED)**, which records eight policy types at the group-country-year level, covering 187 targeted groups in 55 countries from 1945 to 2020. The policies are:
+
+-   destruction of cultural heritage sites
+-   destruction of cultural artifacts
+-   forced changes to a group's way of life
+-   boarding schools
+-   reeducation camps
+-   suppression of language
+-   suppression of religion
+-   restrictions on intangible cultural expression
+
 ## Ottoman and Missionary GIS
 
 My doctoral research reconstructed the competitive dynamics between Protestant missionary institutions and Ottoman state education in late Ottoman Anatolia (c. 1880–1914). Using a purpose-built historical GIS dataset covering 335 kazas, I traced how inter-communal educational rivalry — particularly between ABCFM missionary schools and Armenian community schools — shaped long-run patterns of human capital accumulation, women's schooling, and economic development in modern Turkey.
